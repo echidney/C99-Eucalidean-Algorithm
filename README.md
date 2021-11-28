@@ -1,7 +1,9 @@
-##The C code for the Eucalidean Algorithm
+## The C code for the Eucalidean Algorithm
 
 **About**
+
 This is a form of exercise in C code featuring recursion, pointers and memory operarions.
+
 **Compiling**
 - Create C executable
   - `make all`
